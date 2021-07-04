@@ -1,0 +1,43 @@
+span {
+    color: darkslategrey;
+    margin: 0px;
+    font-family: 'Caveat', cursive;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    color: rgb(0, 110, 74);
+font-family: 'Noto Serif JP', serif;
+}
+h1{
+    font-size: 50px;
+
+}
+p{
+    font-family: 'Yomogi', cursive;
+    font-weight: 600;
+
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100% ;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: bold;
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    padding:  10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
